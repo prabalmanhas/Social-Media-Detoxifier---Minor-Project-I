@@ -6,3 +6,4 @@ Social Media Detoxifier - a step towards Cyber Security / against Cyber Crimes
 * Video Toxicity Analyzer 🎬
 * IP Address Tracker 📍
 * Phone Number Details Tracker 📞
+* Comments Toxicity Analyzer 📊
