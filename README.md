@@ -1,12 +1,10 @@
-# Social Media Detoxifier Minor-Project-I
+# [MINOR PROJECT - I] Social Media Detoxifier - a step towards Cyber Security / against Cyber Crimes
 
-Social Media Detoxifier - a step towards Cyber Security / against Cyber Crimes
-
-* Audio Toxicity Analyzer 🔉
-* Video Toxicity Analyzer 🎬
-* IP Address Tracker 📍
-* Phone Number Details Tracker 📞
-* Comments Toxicity Analyzer 📊
+### * Audio Toxicity Analyzer 🔉
+### * Video Toxicity Analyzer 🎬
+### * IP Address Tracker 📍
+### * Phone Number Details Tracker 📞
+### * Comments Toxicity Analyzer 📊
 
 ![GRAPHIC1](Graphics/01.intro_banner.png)
 ![GRAPHIC2](Graphics/02.audio_banner.png)
