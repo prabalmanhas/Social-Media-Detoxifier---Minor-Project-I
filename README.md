@@ -7,3 +7,5 @@
 * The Phone Number Details Tracker helps identify the geolocation as well as the authenticity reports of a phone number.
 
 * Finally, the Comments Toxicity Analyzer evaluates the level of toxicity in the comments section of a post. Overall, the Social Media Detoxifier project aims to promote a safer and healthier online environment for users.
+
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=manhasprabal)
