@@ -21,7 +21,7 @@
 ## 📊 DATA VISUALISATION: To get insights about comments, length, number of comments etc.
 ![07](https://github.com/user-attachments/assets/6e295f90-bad1-4dec-9067-87d92c4c994b)
 
-## Number of comments classified as toxic, severe_toxic etc. into respective categories depending on string length.
+## 💬 Number of comments classified as toxic, severe_toxic etc. into respective categories depending on string length.
 ![gph1](https://github.com/user-attachments/assets/50d18c81-1cba-47ed-a369-21e2b3dd874a)
 ![gph2](https://github.com/user-attachments/assets/756e208c-e4cb-471f-b095-dac344ea66ee)
 
