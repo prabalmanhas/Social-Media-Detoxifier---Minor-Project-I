@@ -1,3 +1,4 @@
+## SOCIAL MEDIA DETOXIFIER
 * The Social Media Detoxifier project is designed to help users maintain a healthier online experience. 
 
 * The project includes features such as an Audio Toxicity Analyzer, Video Toxicity Analyzer, IP Address Tracker, Phone Number Details Tracker, and Comments Toxicity Analyzer. 
