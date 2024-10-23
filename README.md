@@ -1,6 +1,4 @@
 ## SOCIAL MEDIA DETOXIFIER 
-![01](https://github.com/user-attachments/assets/889086dd-6bbd-48f7-ae64-ba76c411fc77)
-
 ### 🔍 Modules of our Project:
 
 ## 🎙️AUDIO ANALYSER: Helps to generate text strings from large audio dataset files.
